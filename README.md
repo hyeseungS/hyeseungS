@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyeseungShin&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=HyeseungShin&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h3 align="center">Hi I'm HyeseungShin, a growing backend developer!</h3>
 <br>
