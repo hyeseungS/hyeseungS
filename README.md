@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89B5AF&height=200&section=header&text=Hyeseung%20Shin&fontAlign=70&fontAlignY=40&fontSize=50&fontColor=ffffff)
 
-<h3 align="center">Hi I'm HyeseungShin, a growing backend developer!</h3>
+<h4 align="center">Hi I'm HyeseungShin, a growing backend developer!</h4>
 <br>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -39,3 +39,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeseungS&layout=compact" />
   </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=89B5AF&height=80&section=footer)
